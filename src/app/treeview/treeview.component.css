@@ -1,0 +1,17 @@
+.mat-tree-node:hover {
+    background-color: rgba(255, 220, 0, 0.1) !important;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+body{
+    color: rgb(202, 113, 5);
+}
+.name{
+    color: blue;
+    font-style: italic;
+}
+.mat-icon-rtl-mirror{
+    background-color: aqua;
+}
